@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "893079600136",
+    "project_id": "deeplink-cd070",
+    "storage_bucket": "deeplink-cd070.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893079600136:android:663cf655a1a3a313dde5bd",
+        "android_client_info": {
+          "package_name": "com.example.fluro_router"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm_-W6eK7IN9n9_HQbtoID5YB8wY3GG2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
