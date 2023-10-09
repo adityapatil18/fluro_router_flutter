@@ -1,16 +1,7 @@
 # fluro_router
 
-A new Flutter project.
+In this app  I have used fluro_router this router is used for navigation same as Navigator.push() and Navigator.pop().
 
-## Getting Started
+Fluro router is used in big application and for web app aslo.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Fluro router gives some transition effecyt at the time of screens changing/navigating.
